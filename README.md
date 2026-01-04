@@ -36,8 +36,8 @@ To ensure maximum learning and engineering discipline, I am following these five
 |:---:|:---|:---|:---:|:---|
 | 01 | [Minutes Alive Calculator](./01_minutes_alive_calculator/) | CLI & I/O | ✅ | Python, `datetime` |
 | 02 | [Developer Profile Generator](./02_developer_profile_generator/) | CLI & Data Mapping | ✅ | Python, `InquirerPy` |
-| 03 | [Unit Converter](./) | CLI & Units | ⏳ | Python, `InquirerPy`|
-| 04 | [Exam Prompt Generator](./) | CLI & Prompt generation | 🚫 | - |
+| 03 | [Unit Converter](./03_smart_python_utility_toolkit) | CLI & Units | ✅ | Python, `Error Handling`, `Conversions`|
+| 04 | [Exam Prompt Generator](./) | CLI & Prompt generation | ⏳ | - |
 | 05 | [QR Code Generator](./) | CLI & Link Management | 🚫 | - |
 | 06 | [Bulk File Renamer](./) | CLI & OS Authentication | 🚫 | - |
 | 07 | [Contact Book](./) | CLI & Data Serialization (JSON) | 🚫 | - |
