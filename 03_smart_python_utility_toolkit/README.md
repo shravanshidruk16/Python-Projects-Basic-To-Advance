@@ -107,4 +107,4 @@ Concepts :
 
 ## ✍️ **Author** 
 * Shravan Shidruk 
-* Challenge: 100+ Important Python Projects in 6 months
+* Challenge: **100+ Important Python Projects in 6 months**

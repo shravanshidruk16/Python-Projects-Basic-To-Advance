@@ -69,4 +69,4 @@ As a part of **100+ Python Project Challenge**, it is the 2nd project. The goal 
 
 ## ✍️ **Author**
 * Shravan Shidruk
-* Challenge: 100+ Important Python Project in 6 months
+* Challenge: **100+ Important Python Project in 6 months**
