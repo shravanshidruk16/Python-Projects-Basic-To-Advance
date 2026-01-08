@@ -25,8 +25,8 @@ To ensure maximum learning and engineering discipline, I am following these five
 * **Phase 4 : System Utilities and OS automations** (minimum 10-15 projects) - Focus on OS system utilities , automations and productivity managing applications
 * **Phase 5 : GUI applications and Desktop Softwares** (minimum 10-15 projects) - Focus: Tkinter, GUI logic, UX.
 * **Phase 6 : Web Development with Python** (minimum 10-15 projects) - Focus: backend, routing, templates, authentications, authorizations.
-* **Phase 7 :  Core Data Science , ML , AI applications ** (minimum 10-15 projects) - Focus: Data analytics, ML pipelines, deployment
-* **Phase 8:  Advance Cloud and Production Ready Systems** (minimum 10-15 projects) - Focus on Devops, Docker, and Cloud.
+* **Phase 7 : Core Data Science , ML , AI applications** (minimum 10-15 projects) - Focus: Data analytics, ML pipelines, deployment
+* **Phase 8 : Advance Cloud and Production Ready Systems** (minimum 10-15 projects) - Focus on Devops, Docker, and Cloud.
 ---
 
 ## 📊 Progress Tracker
